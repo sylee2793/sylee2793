@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sylee2793
 - 👀 I’m interested in intracellular organelle and trafficking.
-- 🌱 I’m currently learning molecular and cell biology to understanding the physiology and pathology of glioblastoma.
+- 🌱 I’m currently learning molecular and cell biology to understand the physiology and pathology of glioblastoma.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
