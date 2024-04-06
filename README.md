@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sylee2793
-- 👀 I’m interested in intracellular organelle and trafficking.
-- 🌱 I’m currently learning molecular and cell biology to understand the physiology and pathology of glioblastoma.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sylee2793/sylee2793 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Yong, a postdoc fellow of the Moffat Lab.
+- 👀 I’m currently interested in cell volume regulation mechanism.
+- 🌱 I wish to learn more about genetic interaction (GI) and state-of-the-art technologies.
+- 💞️ I’m looking to collaborate on recently developed imaging technology and high-throughput chemical screening.
+- 📫 You guys can reach me by sending email, "seonyong.lee@sickkids.ca"
